@@ -26,7 +26,7 @@ numberDoubler(26)  => 104
 
 ### `stringRepeater`
 
-Write a function, `stringRepeater` that takes in a string and "repeats it" until the string's length is greater than 10.
+Write a function, `stringRepeater` that takes in a string and "repeats it" until the string's length is greater than or equal to 10.
 
 **Examples**:
 ```
