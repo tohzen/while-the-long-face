@@ -30,8 +30,8 @@ Write a function, `stringRepeater` that takes in a string and "repeats it" until
 
 **Examples**:
 ```
-stringRepeater('abc') => 'abcabcabcabc'
-stringRepeater('a') => 'aaaaaaaaaa'
+stringRepeater('abc')    => 'abcabcabcabc'
+stringRepeater('a')      => 'aaaaaaaaaa'
 stringRepeater('hotdog') => 'hotdoghotdog'
 ```
 
